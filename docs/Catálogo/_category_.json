@@ -1,0 +1,9 @@
+{
+  "label": "🖥️ Catálogo",
+  "position": 1,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Catálogo de sistemas e serviços"
+  }
+}
