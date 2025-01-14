@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # IPAS
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+aAdd **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`
